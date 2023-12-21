@@ -1,0 +1,15 @@
+/Users/phillipravn/adventofcode/Printr/bin/Debug/net8.0/Printr
+/Users/phillipravn/adventofcode/Printr/bin/Debug/net8.0/Printr.deps.json
+/Users/phillipravn/adventofcode/Printr/bin/Debug/net8.0/Printr.runtimeconfig.json
+/Users/phillipravn/adventofcode/Printr/bin/Debug/net8.0/Printr.dll
+/Users/phillipravn/adventofcode/Printr/bin/Debug/net8.0/Printr.pdb
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.AssemblyInfoInputs.cache
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.AssemblyInfo.cs
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.csproj.CoreCompileInputs.cache
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.sourcelink.json
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.dll
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/refint/Printr.dll
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.pdb
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/Printr.genruntimeconfig.cache
+/Users/phillipravn/adventofcode/Printr/obj/Debug/net8.0/ref/Printr.dll
